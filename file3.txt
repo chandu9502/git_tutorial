@@ -1,3 +1,4 @@
 this is file 3
 added new line 
 added new line again
+added new line once
